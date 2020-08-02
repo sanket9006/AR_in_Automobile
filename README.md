@@ -14,10 +14,7 @@ Link to Github
 
 https://github.com/sanket9006/AR_in_Automobile
 
+
 Link To Demo Video I
-
-https://youtu.be/Z_5QNug0-mU
-
-Link To Demo Video II
 
 https://youtu.be/_9RruOc0bfM
