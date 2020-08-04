@@ -1,7 +1,3 @@
-Link to Submission I Document
-
-https://drive.google.com/file/d/1PdzMUXX2F87QqXQ3Xq_eC-yJZMvKawCi/view?usp=sharing
-
 Link to APK
 
 https://drive.google.com/file/d/1SmI0wEB5454S5jhur79l5U8y1rvk3CIx/view?usp=sharing
@@ -15,6 +11,6 @@ Link to Github
 https://github.com/sanket9006/AR_in_Automobile
 
 
-Link To Demo Video I
+Link To Demo Video 
 
 https://youtu.be/_9RruOc0bfM
